@@ -14,7 +14,7 @@ Abra `scanner.sln` en Visual Studio, seleccione una configuración compatible y 
 
 ## Archivos no incluidos
 
-- `Jose Esau Diaz Hernandez/` y `Jose Esau Diaz Hernandez.zip`: otra copia del proyecto con el nombre de una persona distinta. Se omitieron porque duplican el proyecto principal y no está confirmada su titularidad.
+- `Jose Esau Diaz Hernandez/` y `Jose Esau Diaz Hernandez.zip`: copias de respaldo del mismo proyecto. `main.cpp` y `scanner.cpp` son idénticos a los de la raíz; `scanner.h` solo añade dos inclusiones. Se omitieron para evitar mantener versiones duplicadas del código.
 - `Source.cpp`: archivo vacío, sin código fuente.
 - `scanner.vcxproj.user`: configuración local de inicio y depuración de Visual Studio, vinculada a una computadora.
 - `.vs/`, `Debug/`, `x64/` y los archivos generados dentro de `scanner/`: cachés y resultados de compilación que se pueden regenerar localmente.
