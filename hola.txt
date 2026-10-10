@@ -1,0 +1,36 @@
+
+
+#/*-
+
+:
+&
+|
+!
+->
+
+.
+,
+;
+
+#0x4
+
+[ ]
+()
+
+0
+00
+0755
+0x4f 
+12
+3.1416
+
+
+true
+false print
+hola
+erase una vez la caperucita roja
+que salio al bosque
+  
+  pero se le aparecio el lobo
+
+y se murio

@@ -1,0 +1,24 @@
+.vs/
+**/.vs/
+Debug/
+**/Debug/
+Release/
+**/Release/
+x64/
+**/x64/
+ipch/
+**/ipch/
+*.user
+*.suo
+*.aps
+*.pch
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.zip
+/Jose Esau Diaz Hernandez/
+/Source.cpp
